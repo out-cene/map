@@ -1,0 +1,12 @@
+<svg width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="19" y="4" width="1" height="1" fill="black"/>
+<rect x="18" y="3" width="1" height="1" fill="black"/>
+<rect x="17" y="2" width="1" height="1" fill="black"/>
+<rect x="16" y="1" width="1" height="1" fill="black"/>
+<rect y="4" width="12" height="1" fill="black"/>
+<rect x="1" y="3" width="12" height="1" fill="black"/>
+<rect x="2" y="2" width="12" height="1" fill="black"/>
+<rect x="3" y="1" width="12" height="1" fill="black"/>
+<rect x="4" width="12" height="1" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 5H20V18H17V15H15V18H0V5ZM3 7H7V10H3V7ZM18 7H14V10H18V7ZM3 13H7V16H3V13Z" fill="black"/>
+</svg>
